@@ -11,3 +11,8 @@ Here we show a rapid-fire set of use cases that are enabled by DSPy:
 - Recursively summarize an arbitrary-length document
 - Optimized text-correction Module
 
+
+# Getting Started
+- Clone the repo
+- Run `uv sync`
+- Open the notebook
