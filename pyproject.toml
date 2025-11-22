@@ -1,0 +1,14 @@
+[project]
+name = "dspy-workshop"
+version = "0.1.0"
+description = "Workshop code for AI Engineering Code Summit NYC"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"attachments",
+	"python-dotenv",
+	"dspy",
+	"ipykernel",
+	"pymupdf4llm",
+	"opencv-python>=4.12.0.88",
+]
