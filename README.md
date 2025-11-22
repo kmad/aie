@@ -6,7 +6,7 @@ Here we show a rapid-fire set of use cases that are enabled by DSPy:
 - Simple sentiment classifier
 - Structured information from a PDF
 - Multimodal extraction
-- Car rental agent (using tools)
+- Optimized time entry corrector
 - Detect boundaries of a document
 - Recursively summarize an arbitrary-length document
 - Optimized text-correction Module
