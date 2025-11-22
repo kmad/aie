@@ -1,6 +1,6 @@
 # Workshop code for the AI Engineering Summit 2025
 
-## DSPy is All You Need!
+## DSPy is All You Need
 
 Here we show a rapid-fire set of use cases that are enabled by DSPy:
 - Simple sentiment classifier
